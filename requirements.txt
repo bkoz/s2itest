@@ -1,1 +1,1 @@
-numpy
+weaviate-client
