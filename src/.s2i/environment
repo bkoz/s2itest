@@ -1,2 +1,2 @@
-APP_HOME=src
+APP_HOME=/opt/app-root/src
 APP_FILE=myapp.py
